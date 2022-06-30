@@ -1,0 +1,240 @@
+body{
+   font-family: 'Raleway', sans-serif;
+  
+}
+
+header {
+    background-color:#2F1F53;
+    padding: 5px;
+}
+
+.caixa{
+    position:relative;
+    width: 1320px;
+    margin: 0px 0px 0px 30px;
+}
+
+
+nav{
+    position:absolute;
+    top:50px;
+    margin-left: 850px;   
+}
+
+.grupo{
+    position:absolute;
+    margin: 10px 30px 0 0;
+
+}
+nav li{
+    display: inline;
+    margin: 0 10px 0px 20px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #12ca12;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    display:inline;
+  
+}
+
+nav a:hover{
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+.cookie2{
+  
+    padding: 50px 30px 130px 0;
+    display: inline-block;
+    font-size: 50px;
+    color:rgb(85, 255, 0);
+}
+
+.cookie_email2{
+    display: inline-block;
+    font-size: 20px;
+    color:rgb(85, 255, 0);
+
+}
+
+
+.vantagens{
+    padding: 30px 0;
+    background: #ffffff;
+}
+p{
+    text-align: center;
+      
+}
+.conteudo-vantagens{
+    width: 1200px;
+    padding: 20px 20px 30px 150px;
+   
+   
+}
+.atleta{
+    width: 620px;
+    height: 1200px;
+    
+    padding: 0px 0px 0px 0;
+}
+
+
+.lista-vantagens{
+    width: 40%;
+    margin: 30px;
+    padding: 15px 30px 30px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 30px;
+   
+  
+}
+
+footer{
+    text-align: center;
+    background: #fffffffe;
+    padding: 2px 0;
+    margin: 100px 0px 0px 0px;
+   
+}
+
+.copyright{
+    color:#8d2d2d;
+    font-size: 10px;
+    margin: 10px 0;
+}
+
+p{
+    text-align: center;
+    font-size: 25px;
+    color: rgb(85, 65, 164);
+    text-transform: uppercase;
+}
+
+main{
+    width: 1320px;
+    margin: 0 auto;
+    
+    
+}
+
+form{
+    margin: 40px 100px ;
+    
+    
+}
+
+form label, form legend {
+    display: block;
+    font-size: 20px;
+    margin: 20px 0 20px;
+    
+   
+}
+
+.sexo{
+    display: inline;
+    padding: 20px 0px 0px 50px;
+}
+
+.modalidade{
+    padding: 30px 0 10px 0;
+}
+.input-padrao {
+    
+    display: block;
+    font-size: 10px;
+    margin: 0 0 20px;
+    padding: 10px 15px;
+    width: 50%;
+    
+}
+
+
+
+.salvar{
+   
+   
+    text-align: center;
+    background: rgb(52, 8, 92);
+    color:aliceblue;
+    font-weight: bold;
+    border-radius: 10px;
+    font-size: 10px;
+    margin: 30px 250px 30px;
+    width: 20%;
+    padding: 10px;
+    color: white;
+    font-size: 10px;
+    cursor: pointer;
+}
+
+.salvar{
+   
+    background: green;
+    transform: scale(1.3) rotate(360deg);  
+}
+
+
+.input-login{
+    width: 50%;
+    height: 30px;
+    font-size: 20px;
+}
+
+form a {
+    display:block;
+    padding: 10px ;
+    margin: 10px 0px 30px;
+}
+
+.input-entrar {
+    display:block;
+    padding: 15px ;
+    margin: 30px 200px 30px;
+    width: 20%;
+    background: #2F1F53;
+    color:aliceblue;
+    font-size: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.select{
+    width: 50%;
+    height: 40px;
+    font-size: 20px;
+}
+
+.localizacao{
+    font-size: 20px;
+}
+
+.duracao{
+    padding: 15px;
+    margin: 50px 50px 0 0;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+.pgupo{
+display:block;
+    padding: 10px ;
+    margin: 30px 200px 30px;
+    width: 10%;
+
+}
+	

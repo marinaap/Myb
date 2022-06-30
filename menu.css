@@ -1,0 +1,134 @@
+
+body{
+   font-family: 'Raleway', sans-serif;
+  
+
+
+}
+
+header {
+    background-color:#2F1F53;
+    padding: 5px;
+}
+
+.caixa{
+    position:relative;
+    width: 1320px;
+    margin: 0px 0px 0px 30px;
+}
+
+
+nav{
+    position:absolute;
+    top:50px;
+    margin-left: 850px;   
+}
+
+.grupo{
+    position:absolute;
+    margin: 10px 30px 0 0;
+
+}
+nav li{
+    display: inline;
+    margin: 0 10px 0px 20px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color:rgb(85, 255, 0);
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    display:inline;
+}
+
+.cookie{
+  
+    padding: 50px 30px 130px 0;
+    display: inline-block;
+    font-size: 20px;
+    color:rgb(85, 255, 0);
+}
+
+.cookie_email{
+    display: inline-block;
+    font-size: 20px;
+    color:rgb(85, 255, 0);
+
+}
+
+.produtos :hover{
+    color: #12ca12;
+    text-decoration: underline;
+}
+ 
+
+
+.produtos{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+.produtos li{
+    display: inline-block;
+    text-align: center;
+    width:30%;
+    height: 350px;
+    vertical-align: top;
+    margin: 0 1.5% ;
+    padding: 30px 20px ;
+    box-sizing: border-box;
+    border: 5px solid #450a78;
+    border-radius: 50px;
+    
+}
+
+.produtos li:hover{
+    border-color:#69ff43;
+    border-width: 5px;
+    font-style: italic;
+    background-color: #ffffffee;
+}
+
+.produtos li:active{
+    border-color: #fff311;
+}
+
+.produtos li:hover h2 {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+
+
+.produtos h2{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.produtos img{
+    padding: 15px;
+    height: 150px;
+    width: 150px;;
+}
+
+
+.produto-descricao{
+    font-size: 22px;
+}
+
+.produto-preco{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+    background: #fffffffe;
+    padding: 2px 0;
+    margin: 100px 0px 0px 0px;
+   
+}
+
